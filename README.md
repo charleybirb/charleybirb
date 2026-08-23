@@ -1,5 +1,4 @@
 - Hi, I’m @charleybirb
 - Pronouns: they/them
-- I'm 29 years old
 - I’m interested in game design and app development with Godot, Blender, and Aseprite
 - I frequently collaborate (but never finish projects) with @jaretmcmanus
